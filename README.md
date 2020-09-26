@@ -1,2 +1,2 @@
 # trombones
-Landing page project for Original Trombones
+freeCodeCamp Landing Page project for Original Trombones
